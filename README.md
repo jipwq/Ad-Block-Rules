@@ -12,7 +12,7 @@ https://github.com/jipwq/Ad-Block-Rules/blob/main/my-ublock-backup.txt
 ### 内置uBlock filters规则官方文件
 - [uBlock filters](https://github.com/uBlockOrigin/uAssets/tree/master/filters)
 
-除了`uBlock filters`的规则，自带的其他规则都可以在我的规则介绍文中找到
+除了`uBlock filters`的规则，自带的其他规则都可以在我的去广告的文中找到
 
 ## 外部规则来源
 
