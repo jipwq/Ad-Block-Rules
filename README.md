@@ -3,17 +3,16 @@
 用uBlock Origin的可以直接下载导入
 https://github.com/jipwq/Ad-Block-Rules/blob/main/my-ublock-backup.txt
 
-## uBlock Origin内置规则个人选择
+## uBlock Origin自带规则选择
 
 以下是我个人使用的广告拦截规则，适用于一些想要将这些规则提取到其他应用的用户。
 
-在此部分你可以浏览的图片文件了解我的内置
-https://github.com/jipwq/Ad-Block-Rules/blob/main/uBlock%20Origin%E4%B8%AA%E4%BA%BA%E5%86%85%E7%BD%AE%E8%A7%84%E5%88%99.png
-### 内置uBlock filters规则
-这些规则可以在uBlock Origin的官方过滤器库中找到：
+![uBlock Origin自带规则选择](https://files.catbox.moe/ouzckh.png)
+
+### 内置uBlock filters规则官方文件
 - [uBlock filters](https://github.com/uBlockOrigin/uAssets/tree/master/filters)
 
-除了`uBlock filters`的规则，其他的规则都可以在链接自行查找
+除了`uBlock filters`的规则，其他的规则都可以在我的规则介绍中自行查找
 
 ## 外部规则来源
 
