@@ -7,7 +7,7 @@ https://github.com/jipwq/Ad-Block-Rules/blob/main/my-ublock-backup.txt
 
 以下是我个人使用的广告拦截规则，适用于一些想要将这些规则提取到其他应用的用户。
 
-<img src="https://files.catbox.moe/ouzckh.png" alt="uBlock Origin自带规则选择" width="200" height="300"/>
+<img src="https://files.catbox.moe/ouzckh.png" alt="uBlock Origin自带规则选择" width="200" height="350"/>
 
 ### 内置uBlock filters规则官方文件
 - [uBlock filters](https://github.com/uBlockOrigin/uAssets/tree/master/filters)
