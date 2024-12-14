@@ -12,11 +12,14 @@ https://github.com/jipwq/Ad-Block-Rules/blob/main/my-ublock-backup.txt
 ### 内置uBlock filters规则官方文件
 - [uBlock filters](https://github.com/uBlockOrigin/uAssets/tree/master/filters)
 
-除了`uBlock filters`的规则，其他的规则都可以在我的规则介绍中自行查找
+除了`uBlock filters`的规则，自带的其他规则都可以在我的规则介绍文中找到
 
 ## 外部规则来源
 
 以下是一些外部广告拦截规则，可以根据需要进行选择和使用：
+
+<img src="https://files.catbox.moe/n42gc3.png" alt="外部规则" width="250" height="220"/>
+
 
 1. [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt)
 2. [Browse Websites Without Logging In](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt)
